@@ -5,7 +5,7 @@
 
 
 # Usage
-bash tess.sh dell.com
+bash tess.sh target.com
 
 ![image](https://user-images.githubusercontent.com/39010717/83434079-70cfd480-a457-11ea-84ef-63787b1ac72e.png)
 
