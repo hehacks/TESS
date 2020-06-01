@@ -1,7 +1,7 @@
 # A Simple Subdomain Enumeration Script written in bash
 
-#  requirement-
-$ sudo apt-get install jq
+#  Requirements
+`$ sudo apt-get install jq`
 
 
 # Usage
@@ -11,8 +11,7 @@ bash subdomain.sh dell.com
 
 ![image](https://user-images.githubusercontent.com/39010717/83426691-2a757800-a44d-11ea-9356-8d2c886c29a5.png)
 
-#This is version 1
-#Wait for some time for new version
+## New features coming soon!
 
-Twitter-
-https://twiiter.com/kush_sri_3541
+
+[Follow me on Twitter](https://twiiter.com/kush_sri_3541)
