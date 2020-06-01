@@ -8,5 +8,5 @@ $ sudo apt-get install jq
 bash subdomain.sh dell.com
 
 This is version 1
-Wait for some for new version
+Wait for some time for new version
 
