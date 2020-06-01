@@ -14,3 +14,5 @@ bash subdomain.sh dell.com
 This is version 1
 Wait for some time for new version
 
+Twitter-
+https://twiiter.com/kush_sri_3541
