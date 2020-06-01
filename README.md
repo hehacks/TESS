@@ -5,7 +5,7 @@
 
 
 # Usage
-bash subdomain.sh dell.com
+bash tess.sh dell.com
 
 ![image](https://user-images.githubusercontent.com/39010717/83426517-e5514600-a44c-11ea-96cd-6a176ef1238f.png)
 
