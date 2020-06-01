@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo -e "\e[1m \e[91m **********  TESS ***********\n"
+echo -e "\e[1m \e[91m **********  TESS  ***********\n"
 echo -e " A simple subdomain enumeration bash script by KU5H4GR4 5RIV45T4V \n"
 echo -e "Twitter- https://twitter.com/kush_sri_3541 \n"
 echo -e "Github- https://github.com/kushagrasrivastav727 \n"
