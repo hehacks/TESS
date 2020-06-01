@@ -14,4 +14,4 @@ bash tess.sh dell.com
 ## New features coming soon!
 
 
-[Follow me on Twitter](https://twiiter.com/kush_sri_3541)
+[Follow me on Twitter](https://twitter.com/kush_sri_3541)
