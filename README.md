@@ -7,3 +7,6 @@ $ sudo apt-get install jq
 # Requirement-
 bash subdomain.sh dell.com
 
+This is version 1
+Wait for some for new version
+
