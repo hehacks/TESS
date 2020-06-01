@@ -45,6 +45,17 @@ else
         echo ">>> Dns bufferover Done"
         echo "Work in Progress...."
 
+curl -s  -X POST --data "url=$1&Submit1=Submit" -H 'User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.1) Gecko/20100122 firefox/3.6.1' "https://suip.biz/?act=amass"|grep -o "\w*.$1"| uniq >>$1.txt
+       echo ">>> Amass Done"
+       echo "Work in Progress...."
+	curl -s  -X POST --data "url=$1&Submit1=Submit" -H 'User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.1) Gecko/20100122 firefox/3.6.1' "https://suip.biz/?act=subfinder"|grep -o "\w*.$1"|cut -d ">" -f 2|egrep -v " "| uniq >>$1.txt
+	   echo ">>> Subfinder Done"
+       echo "Work in Progress...."
+	
+	curl -s -X POST --data "url=$1&Submit1=Submit" -H 'User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.1) Gecko/20100122 firefox/3.6.1' "https://suip.biz/?act=findomain"|grep -o "\w.*$1"|egrep -v " "| uniq >>$1.txt
+       echo ">>> Findomain Done"
+	   echo -e "Work in Progress.... \n"
+       
 
 echo -e "\e[34m *****List of Domains***** \n"
 
