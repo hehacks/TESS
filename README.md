@@ -1,4 +1,4 @@
-# A Simple Subdomain Enumeration Script written in bash
+# TESS - A Simple Subdomain Enumeration Script written in bash
 
 #  Requirements
 `$ sudo apt-get install jq`
